@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592451823 source:c:\users\38096\desktop\labs co\co_dak\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
